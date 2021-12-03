@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: #B00000;
+}
+body{
+	font-family: Times New Roman;
+	color: white;
+	
+}
+h1{
+	margin-top: 30px;
+	margin-left: 400px;
+	text-shadow: black 2px 5px;
+}
+.strela{
+	margin-top: 60px;
+	margin-left: 400px;
+}
+.kim{
+	margin-left: 400px;
+	margin-top: -400px;
+}
+p{
+	text-align: center;
+	font-size: 30px;
+}
+.matvey{
+	margin-left: -850px;
+	margin-top: 200px;
+}
+.soc{
+	margin-left: -450px;
+	margin-top: -200px;
+}
+.drag{
+	width: 300px;
+	height: 300px;
+	margin-top: -50px;
+	margin-left: 1100px;
+}
+.img{
+	display: block;
+	margin-left: 450px;
+	margin-top: -100px;
+}
+.log{
+	width: 80px;
+	height: 80px;
+	margin-left: 20px;
+}
